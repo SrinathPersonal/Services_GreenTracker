@@ -1,0 +1,4 @@
+C:\ServiceOutput\appsettings.Development.json
+C:\ServiceOutput\appsettings.json
+C:\ServiceOutput\ApiToExcelService.pdb
+C:\ServiceOutput\ApiToExcelService.exe
