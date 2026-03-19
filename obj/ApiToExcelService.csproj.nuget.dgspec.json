@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitProjects\\Windows services\\ApiToExcelService\\ApiToExcelService.csproj": {}
+    "D:\\GitProjects\\Windows services\\Services_GreenTracker\\ApiToExcelService.csproj": {}
   },
   "projects": {
-    "D:\\GitProjects\\Windows services\\ApiToExcelService\\ApiToExcelService.csproj": {
+    "D:\\GitProjects\\Windows services\\Services_GreenTracker\\ApiToExcelService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitProjects\\Windows services\\ApiToExcelService\\ApiToExcelService.csproj",
+        "projectUniqueName": "D:\\GitProjects\\Windows services\\Services_GreenTracker\\ApiToExcelService.csproj",
         "projectName": "ApiToExcelService",
-        "projectPath": "D:\\GitProjects\\Windows services\\ApiToExcelService\\ApiToExcelService.csproj",
+        "projectPath": "D:\\GitProjects\\Windows services\\Services_GreenTracker\\ApiToExcelService.csproj",
         "packagesPath": "C:\\Users\\zoi\\.nuget\\packages\\",
-        "outputPath": "D:\\GitProjects\\Windows services\\ApiToExcelService\\obj\\",
+        "outputPath": "D:\\GitProjects\\Windows services\\Services_GreenTracker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,12 +65,6 @@
             "Microsoft.Extensions.Http": {
               "target": "Package",
               "version": "[10.0.5, )"
-            },
-            "Microsoft.NET.ILLink.Tasks": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[10.0.3, )",
-              "autoReferenced": true
             }
           },
           "imports": [
@@ -84,20 +78,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[10.0.3, 10.0.3]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[10.0.3, 10.0.3]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[10.0.3, 10.0.3]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -378,11 +358,6 @@
             "System.Xml.XPath": "(,4.3.32767]",
             "System.Xml.XPath.XDocument": "(,5.0.32767]"
           }
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
         }
       }
     }
