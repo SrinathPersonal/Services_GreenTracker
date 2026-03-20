@@ -119,3 +119,7 @@ D:\GitProjects\Windows services\Services_GreenTracker\obj\Debug\net10.0\refint\A
 D:\GitProjects\Windows services\Services_GreenTracker\obj\Debug\net10.0\ApiToExcelService.pdb
 D:\GitProjects\Windows services\Services_GreenTracker\obj\Debug\net10.0\ApiToExcelService.genruntimeconfig.cache
 D:\GitProjects\Windows services\Services_GreenTracker\obj\Debug\net10.0\ref\ApiToExcelService.dll
+D:\GitProjects\Windows services\Services_GreenTracker\bin\Debug\net10.0\publish\ApiToExcelService.deps.json
+D:\GitProjects\Windows services\Services_GreenTracker\bin\Debug\net10.0\publish\ApiToExcelService.runtimeconfig.json
+D:\GitProjects\Windows services\Services_GreenTracker\bin\Debug\net10.0\publish\appsettings.Development.json
+D:\GitProjects\Windows services\Services_GreenTracker\bin\Debug\net10.0\publish\appsettings.json

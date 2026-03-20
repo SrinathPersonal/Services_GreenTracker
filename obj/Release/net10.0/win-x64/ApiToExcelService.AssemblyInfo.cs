@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiToExcelService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1140be02c417b45b0633ced2c63561b73b55a588")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiToExcelService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiToExcelService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
